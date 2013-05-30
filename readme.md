@@ -1,8 +1,8 @@
-# grunt-regarde [![Build Status](https://secure.travis-ci.org/yeoman/grunt-regarde.png?branch=master)](http://travis-ci.org/yeoman/grunt-regarde)
+# [deprecated] grunt-regarde
 
-> Observe files for changes and run tasks
+**Deprecated in favor of [grunt-contrib-watch](https://github.com/gruntjs/grunt-contrib-watch#optionslivereload) which now have Livereload support built-in.**
 
-*Requires grunt 0.4*
+---
 
 
 ## Getting Started
